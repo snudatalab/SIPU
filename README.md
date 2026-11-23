@@ -1,6 +1,6 @@
 # Reproducibility Package
 
-This folder is prepared for paper artifact submission.
+This repository is the official implementation of "Sipu: Accurate Graph-based Positive-Unlabeled Learning under Heterophily" (CIKM 2026). 
 
 ## 1) Directory layout
 
