@@ -80,4 +80,10 @@ Outputs are written under `out/` (created automatically), mainly:
 
 ## 7) Reference
 
-TBD
+@inproceedings{park2026sipu,
+  title={Sipu: Accurate Graph-based Positive-Unlabeled Learning under Heterophily},
+  author={Park, Shihyung and Kim, Junghun and Kang, U},
+  booktitle={Proceedings of the 35th ACM International Conference on Information and Knowledge Management},
+  pages={3917--3927},
+  year={2026}
+}
