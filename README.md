@@ -80,6 +80,7 @@ Outputs are written under `out/` (created automatically), mainly:
 
 ## 7) Reference
 
+```bibtex
 @inproceedings{park2026sipu,
   title={Sipu: Accurate Graph-based Positive-Unlabeled Learning under Heterophily},
   author={Park, Shihyung and Kim, Junghun and Kang, U},
